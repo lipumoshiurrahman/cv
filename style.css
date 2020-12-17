@@ -28,7 +28,7 @@ img{
 	 background-image: linear-gradient(to right, #386fc0, #0074a5, #006e73, #1a6244, #465329);
 }
 #nav{
-	height:70px;
+	height:100%;
 	
 }
 .nav-logo{
